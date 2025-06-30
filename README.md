@@ -1,19 +1,31 @@
-# Projeto para POO2
+## Instruções para Execução da Aplicação
 
-.RAR com o nome do SO respectivo ao seu deve ser baixado para rodar a aplicação, caso o contrário peço desculpas ;-;
-(no caso Windows.rar ou Linux.rar)
+### 1. Escolha do Sistema Operacional
+Baixe o arquivo `.RAR` correspondente ao seu sistema operacional:
 
-NOTA: Para rodar no Linux vai ser necessario utilizar o chmod, exemplo abaixo:
-        chmod +x Linux.x86_64
-        ./Linux.x86_64
+- `Windows.rar` → Para usuários **Windows**
+- `Linux.rar` → Para usuários **Linux**
 
-o arquivo Scripts.rar são as classes utilizadas no projeto.
+> ⚠️ Caso o arquivo incorreto seja utilizado, a aplicação **não funcionará corretamente**. Pedimos desculpas por isso. ;-;
 
-o arquvio LICENSE é um arquivo que gerei junto com o repositório.
+### 2. Execução no Linux
+Após extrair o `Linux.rar`, é necessário conceder permissão de execução ao arquivo. Use os seguintes comandos no terminal:
 
-o arquivo Instruções.pdf nele esta tudo o que o usuario necessita para configurar e utilizar a simulação.
+/////////////////////////
+chmod +x Linux.x86_64
+./Linux.x86_64
+/////////////////////////
+Scripts.rar
+Contém todas as classes utilizadas no projeto.
 
-o arquivo Diagrama2.png é o diagrama geral das classes de todo o sistema.
+LICENSE
+Arquivo de licença gerado automaticamente junto com o repositório.
+
+Instruções.pdf
+Documento com todas as orientações necessárias para configurar e utilizar a simulação.
+
+Diagrama2.png
+Diagrama geral das classes do sistema.
 
 
 ## 🎬 Demonstração do Projeto
