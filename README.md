@@ -1,3 +1,7 @@
+## 🎬 Demonstração do Projeto
+
+([https://www.youtube.com/watch?v=ID_DO_VIDEO](https://www.youtube.com/watch?v=aaqfWWwv-74&ab_channel=LucasRobertodaSilva))
+
 ## Instruções para Execução da Aplicação
 
 ### 1. Escolha do Sistema Operacional  
@@ -30,8 +34,3 @@ Documento com todas as orientações necessárias para configurar e utilizar a s
 
 ### Diagrama2.png
 Diagrama geral das classes do sistema.
-
-
-## 🎬 Demonstração do Projeto
-
-([https://www.youtube.com/watch?v=ID_DO_VIDEO](https://www.youtube.com/watch?v=aaqfWWwv-74&ab_channel=LucasRobertodaSilva))
