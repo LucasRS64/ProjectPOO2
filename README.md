@@ -15,7 +15,7 @@ Baixe o arquivo `.RAR` correspondente ao seu sistema operacional:
 ### 2. Execução no Linux  
 Após extrair o `Linux.rar`, é necessário conceder permissão de execução ao arquivo. Use os seguintes comandos no terminal:
 
-```bash
+### bash
 chmod +x Linux.x86_64  
 ./Linux.x86_64
 
