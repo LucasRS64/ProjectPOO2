@@ -6,7 +6,7 @@ Baixe o arquivo `.RAR` correspondente ao seu sistema operacional:
 - `Windows.rar` → Para usuários **Windows**  
 - `Linux.rar` → Para usuários **Linux**
 
-> ⚠️ Caso não seja nenhuma dos 2 o seu sistema operacional, pedimos desculpas por isso. ;-;
+> ⚠️ Caso não seja nenhum dos 2, o seu sistema operacional, pedimos desculpas por isso. ;-;
 
 ---
 
