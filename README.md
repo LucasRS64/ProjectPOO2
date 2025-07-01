@@ -22,6 +22,7 @@ chmod +x Linux.x86_64
 ./Linux.x86_64
 
 ---
+## Arquivos adicionais no repositório
 
 ### Scripts.rar
 Contém todas as classes utilizadas no projeto.
