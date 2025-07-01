@@ -1,7 +1,5 @@
 ## Instruções para Execução da Aplicação
 
-## Instruções para Execução da Aplicação
-
 ### 1. Escolha do Sistema Operacional  
 Baixe o arquivo `.RAR` correspondente ao seu sistema operacional:
 
@@ -18,6 +16,8 @@ Após extrair o `Linux.rar`, é necessário conceder permissão de execução ao
 ### bash
 chmod +x Linux.x86_64  
 ./Linux.x86_64
+
+---
 
 ### Scripts.rar
 Contém todas as classes utilizadas no projeto.
